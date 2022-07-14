@@ -5,7 +5,7 @@
    # Do not use this in production. Sample purpose only.
 
    # Author: Upkar Lidder (IBM)
-   # Additional Authors: Juan6078
+   # Additional Authors: 
    # <Juan6078>
 
    # Input:
